@@ -1,6 +1,7 @@
 ## Hello Good People👋
 
-![Uploading mountains-1412683_1280.png…]()
+
+![mountains-1412683_1280](https://github.com/user-attachments/assets/be4e0da2-6786-444f-86d5-4ea3f903c132)
 
 
 <!--
