@@ -1,5 +1,6 @@
-## Hi there 👋
-- 🌱 I’m currently learning Node.js
+## Hello Good People👋
+![mountains-8480519_640](https://github.com/user-attachments/assets/b16d5558-5850-4382-8752-9bb9780d9405)
+
 
 <!--
 **MahinA1am/MahinA1am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
