@@ -33,7 +33,7 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: **mahin2002@gmail.com**  
+- 📧 Email: **www.mahin2002@gmail.com**  
 - 🔗 [LinkedIn](https://linkedin.com/in/mahin-alam1)  
 - 🐙 [GitHub](https://github.com/MahinA1am)
 
