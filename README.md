@@ -18,7 +18,10 @@
 - 🎙️ **AI meeting notetakers**: calendar-driven recording bots, transcripts, and action items extracted by an LLM
 - 💳 **Usage-based billing** on Stripe with an idempotent credit ledger that meters every model and tool call
 
-Most of this work lives in private company repositories. My public projects are below.
+Most of this work lives in private company repositories, so I've written up what I built, how and why in
+📖 **[Engineering case studies](https://github.com/MahinA1am/engineering-case-studies)**: billing and a credit ledger, an MCP server, LLM evaluation, an AI meeting notetaker, a content-automation pipeline, multi-tenant security and inbox sync.
+
+My public projects are below.
 
 ---
 
